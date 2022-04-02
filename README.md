@@ -29,10 +29,6 @@
 - Devops deploys the code to production and automated/manual/sanity tests are executed;
 - Congratulations ! your code is now live.
 
-### Design Patterns & Principles
-- SOLID principle (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion)
-- Lean software development (https://en.wikipedia.org/wiki/Lean_software_development)
-
 ### Object Oriented Programming(OOPs) Concepts
 - Class (blueprint)
 - Object (has state & behaviour)
@@ -40,7 +36,18 @@
 - Encapsulation (Binding code and data together into a single unit e.g. class; coupling & cohesion)
 - Polymorphism (one task performed in different ways e.g. overloading, overriding)
 - Abstraction (Hiding internal details)
-- 
+
+### Core Java
+- Interfaces
+- Collections ( Lists, Maps, Streams, Iterable interface)
+- Mulithreading( With Thread class and Runnable interface)
+- Strings(mutable and immutable)
+- Exception handling
+- Access modifiers
+- Keywords
+- Constructors
+- Inner classes
+
 ### Java 8 Features
 - Functional Interface: Interface with exactly one abstract method
 - Default method:  Added to interfaces to add extra features to current interfaces without disrupting the current implementations; can have a body; stream() is a   default method added to Collection interface.
@@ -50,10 +57,9 @@
 - Java Stream API: Faster aggregated operations on collections & I/O operations; 
 - forEach() method in Iterable interface: 
 
-### Core Java
-- Collections ( Lists, Maps, Streams, Iterable interface)
-- Mulithreading( With Thread class and Runnable interface)
-- Strings
+### Design Patterns & Principles
+- SOLID principle (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion)
+- Lean software development (https://en.wikipedia.org/wiki/Lean_software_development)
 
 ### Misc Topics
 - General Questions
