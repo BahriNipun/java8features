@@ -33,6 +33,14 @@
 - SOLID principle (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion)
 - Lean software development (https://en.wikipedia.org/wiki/Lean_software_development)
 
+### Object Oriented Programming(OOPs) Concepts
+- Class (blueprint)
+- Object (has state & behaviour)
+- Inheritance (object acquiring all the properties and behaviors of a parent object)
+- Encapsulation (Binding code and data together into a single unit e.g. class; coupling & cohesion)
+- Polymorphism (one task performed in different ways e.g. overloading, overriding)
+- Abstraction (Hiding internal details)
+- 
 ### Java 8 Features
 - Functional Interface: Interface with exactly one abstract method
 - Default method:  Added to interfaces to add extra features to current interfaces without disrupting the current implementations; can have a body; stream() is a   default method added to Collection interface.
@@ -41,14 +49,6 @@
 - Optional Class: No more null checks needed against null pointer exception
 - Java Stream API: Faster aggregated operations on collections & I/O operations; 
 - forEach() method in Iterable interface: 
-
-### Object Oriented Programming(OOPs) Concepts
-- Class (blueprint)
-- Object (has state & behaviour)
-- Inheritance (object acquiring all the properties and behaviors of a parent object)
-- Encapsulation (Binding code and data together into a single unit e.g. class; coupling & cohesion)
-- Polymorphism (one task performed in different ways e.g. overloading, overriding)
-- Abstraction (Hiding internal details)
 
 ### Core Java
 - Collections ( Lists, Maps, Streams, Iterable interface)
