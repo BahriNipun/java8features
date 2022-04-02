@@ -42,10 +42,21 @@
 - Java Stream API: Faster aggregated operations on collections & I/O operations; 
 - forEach() method in Iterable interface: 
 
-### Topics
-- Basics - In progress
-- Multi-threading
-- Collections (Lists, Maps)
+### Object Oriented Programming(OOPs) Concepts
+- Class
+- Object
+- Method
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Data Abstraction
+
+### Core Java
+- Collections ( Lists, Maps, Streams, Iterable interface)
+- Mulithreading( With Thread class and Runnable interface)
+- Strings
+
+### Misc Topics
 - General Questions
 - Jakson API
 - Caching
