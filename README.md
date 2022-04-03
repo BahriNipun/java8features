@@ -10,10 +10,12 @@
 - Other Softwares - Postman(API client)-https://www.postman.com/downloads/
 
 ### Project Methodology
-- SCRUM- Work is refined from product backlog, planned and targeted in a sprint which is is usually two weeks; Scrum team consists of scrum master, product owner, developers, QA and devops colleagues.
+- Scrum: Lightweight framework that helps people, teams and organizations generate value.
+- Scrum Team: Consists of Scrum Master, Product Owner, Developers, QA and Devops members.
+- Responsibilities: Scrum rituals-Scrum Master, Product Backlog-Product Owner, Sprint Backlog-Developers/QA/DevOps
+- Flow: Product Backlog, Sprint Refinement(effort estimation, story points, dependecies/impediment), Sprint Planning, Sprint Execution, Sprint Retrospective
+- Sprint Work is refined from product backlog, planned for a sprint and then executed in a sprint which is is usually two weeks;
 - JIRA board https://bahrinipun.atlassian.net/jira/software/projects/CD/boards/1
-- Product backlog, Sprint refinement(effort estimation, story points, dependecies/impediment), sprint planning, sprint execution, spring retrospective
-- Responsibilities- Scrum rituals=Scrum Master, Product Backlog=Product Owner, Sprint Backlog=Developers/QA/DevOps
 
 ### Code Development & Delivery
 - Refined User Story from the sprint is assigned to developer
