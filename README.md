@@ -13,7 +13,7 @@
 - Scrum: Lightweight framework that helps people, teams and organizations generate value.
 - Scrum Team Actor: Consists of Scrum Master, Product Owner, Developers, QA and Devops members.
 - Responsibilities: Scrum rituals-Scrum Master, Product Backlog-Product Owner, Sprint Backlog-Developers/QA/DevOps
-- Flow: Product Backlog, Sprint Refinement(effort estimation, story points, dependecies/impediment), Sprint Planning, Sprint Execution, Sprint Retrospective
+- Flow: Product Backlog, Sprint Refinement(effort estimation, story points, dependecies/impediment), Sprint Planning, Sprint Execution with daily standup to share status/impediment, Sprint Retrospective
 - Epic -> User Story -> Task, Bugs
 - Sprint Work is refined from product backlog, planned for a sprint and then executed in a sprint which is is usually two weeks;
 - JIRA board https://bahrinipun.atlassian.net/jira/software/projects/CD/boards/1
