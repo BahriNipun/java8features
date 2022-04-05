@@ -63,6 +63,7 @@
 ### Design Patterns & Principles
 - SOLID principle (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion)
 - Lean software development (https://en.wikipedia.org/wiki/Lean_software_development)
+- 12 factor app (https://12factor.net/)
 
 ### Misc Topics
 - General Questions
