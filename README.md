@@ -9,7 +9,7 @@
 - Docker desktop for continers to locally build and push docker images (https://docs.docker.com/desktop/windows/install/)
 - Other Softwares - Postman(API client)-https://www.postman.com/downloads/
 
-### Project Methodology
+### Project Methodology(Scrum)
 - Scrum: Lightweight framework that helps people, teams and organizations generate value.
 - Scrum Team Actor: Consists of Scrum Master, Product Owner, Developers, QA and Devops members.
 - Responsibilities: Scrum rituals-Scrum Master, Product Backlog-Product Owner, Sprint Backlog-Developers/QA/DevOps
