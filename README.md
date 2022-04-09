@@ -51,7 +51,7 @@
 
 ### Object Oriented Programming(OOPs) Concepts
 - Class (blueprint)
-- Object (has state & behaviour)
+- Object or Instance (has state & behaviour)
 - Inheritance (object acquiring all the properties and behaviors of a parent object)
 - Encapsulation (Binding code and data together into a single unit e.g. class; coupling & cohesion)
 - Polymorphism (one task performed in different ways e.g. overloading, overriding)
