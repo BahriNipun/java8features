@@ -26,7 +26,12 @@
 - Developer writes & verify code/functionality in IDE; 
 - Developer also verifies the code quality using plugins like Sonarlint.
 - Dev does unit testing via unit tests e.g. junit; developers runs the code quality plugin to see if there are some improvements
-- Developer writes/modifies(optional) the Dockerfile(instructions to build container)
+- Developer writes/modifies(optional) the Dockerfile(instructions to build container) for example-
+    FROM openjdk:11.0-oraclelinux8
+    WORKDIR /usr/local/lib
+    COPY . .
+    EXPOSE 8080
+    ENTRYPOINT ["java","-jar","/usr/local/lib/target/springboot-backend-0.0.1-SNAPSHOT.jar"]
 - Developer creates a pull request from his feature branch(containg the feature changes he made) towards master/main/develop(code to be deployed to higher env)
 - Developer assigns the pull request to his colleague for peer review; reviewer may asks for few code updates; once finalized pull request is approved by reviewer.
 - Developer now merges the feature branch to upper branch(e.g. master or any other) and code is deveployed to Development server enviornment; dev can now validate his    code in server env.
