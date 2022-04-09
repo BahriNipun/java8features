@@ -20,17 +20,29 @@
 
 ### Code Development & Delivery
 - Refined User Story from the sprint is assigned to developer
-- Developer clones code repository in his machine; dev creates a feature branch from the master(or any other designated) branch for the code changes;
+- Developer clones code repository in his machine; 
+- Dev creates a feature branch from the master(or any other designated) branch for the code changes;
 - Developer does coding in local envionment i.e. laptop using tools like IDE, Postman etc
-- Developer writes & verify code/functionality in IDE; dev does unit testing via unit tests e.g. junit; developers runs the code quality plugin to see if there are some improvements
-- Developer writes(optional) the Dockerfile(instructions to build container)
-- Developer creates a pull request from his feature branch(containg the feature changes he made) towards master(code to be deployed to production)
+- Developer writes & verify code/functionality in IDE; 
+- Developer also verifies the code quality using plugins like Sonarlint.
+- Dev does unit testing via unit tests e.g. junit; developers runs the code quality plugin to see if there are some improvements
+- Developer writes/modifies(optional) the Dockerfile(instructions to build container)
+- Developer creates a pull request from his feature branch(containg the feature changes he made) towards master/main/develop(code to be deployed to higher env)
 - Developer assigns the pull request to his colleague for peer review; reviewer may asks for few code updates; once finalized pull request is approved by reviewer.
 - Developer now merges the feature branch to upper branch(e.g. master or any other) and code is deveployed to Development server enviornment; dev can now validate his    code in server env.
+- Usually we Dev, QA/Test, Staging/UAT, Production environments.
 - Code the then deployed to next higher envionment e.g QA env by devops member and feature is tested by the QA memeber.
 - Successul tested code is cheery picked and merged to higher enviorment e.g. Staging and automated/manual tests are done by QA; QA gives green signal for prod deployment to Devops.
 - Devops deploys the code to production and automated/manual/sanity tests are executed;
 - Congratulations ! your code is now live.
+
+### Project Description
+- Architecture: Frontend(Angular) -> Backend(Springboot API) -> Database(mysql)
+- Responsibility: Sprinbgoot API development work with Angular front end and mysql database with JPA.
+- Domain/Functionality: Time and attendence 
+- Client- ?
+- Duration- ?
+- Challenges- ?
 
 ### Object Oriented Programming(OOPs) Concepts
 - Class (blueprint)
